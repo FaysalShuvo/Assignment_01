@@ -2,22 +2,10 @@
   padding: 0;
   margin: 0;
 }
-/* maybe finish later!!
-.menu-section {
-  height: 50px;
+.text-highlight-01{
+  color: #fd5959;
+  font-weight: bold;
 }
-
-.menu a {
-  text-decoration: none;
-  list-style-type: none;
-  float: right;
-}
-*/
-/*
-font-family: 'Bebas Neue', cursive;
-font-family: 'Roboto', sans-serif;
-*/
-/*top-section 01*/
 .top-section {
   height: 1000px;
 }
@@ -162,7 +150,7 @@ font-family: 'Roboto', sans-serif;
   font-size: 17px;
   font-weight: 500;
   color: white;
-  background-image: linear-gradient(90deg, #ff0000f8, #d44c4c);
+  background-image: linear-gradient(90deg, #ff0000f8, #ff2f90);
   padding: 13px 30px;
   border-radius: 5px;
 }
