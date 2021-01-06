@@ -1,0 +1,81 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+/* maybe finish later!!
+.menu-section {
+  height: 50px;
+  border: 1px solid red;
+}
+
+.menu a {
+  text-decoration: none;
+  list-style-type: none;
+  float: right;
+}
+*/
+/*
+font-family: 'Bebas Neue', cursive;
+font-family: 'Roboto', sans-serif;
+*/
+/*top-section 01*/
+.top-section {
+  height: 520px;
+}
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 70px;
+  padding: 5px;
+}
+.half-width h1 {
+  font-family: "Bebas Neue", cursive;
+  color: #363958;
+  margin-top: 50px;
+  font-size: 80px;
+  font-weight: 500;
+  line-height: 73px;
+}
+
+.half-width p {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  color: #3e3e3e;
+  font-weight: 500;
+  margin-bottom: 24px;
+}
+.half-width img {
+  width: 80%;
+}
+.text-highlight {
+  color: #ff8367;
+}
+.hireMeButton {
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: 500;
+  color: white;
+  background-image: linear-gradient(90deg, #ff8367, #f8a29f);
+  padding: 13px 30px;
+  border-radius: 5px;
+}
+/*top-section 01*/
+/*top-section 02*/
+.half-width h2 {
+  font-family: "Bebas Neue", cursive;
+  color: #363958;
+  font-size: 50px;
+  margin-top: 70px;
+}
+.yt-button {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  text-decoration: none;
+  font-size: 17px;
+  color: white;
+  background-image: linear-gradient(90deg, #ff8367, #f8a29f);
+  padding: 13px 30px;
+  border-radius: 5px;
+}
+/*top-section 02*/
